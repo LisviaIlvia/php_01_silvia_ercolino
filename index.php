@@ -1,5 +1,7 @@
 <?php
 
+// Selfwork PHP 1
+
 $integer = 10;
 $float = 35.48;
 $string = "Silvia";
